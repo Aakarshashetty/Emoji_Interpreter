@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# emoji_interpreter
+This is a Fun GUI App Which tells us the Exact Meaning of the Emoji..
+
+Use this App if you want to Know the Meaning of the Emoji Whenever you are confused.... :) 
+ 
+>>>>>>> 416c7f5ad0db39e660a0785038720e7994b8dddc
