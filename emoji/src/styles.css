@@ -1,0 +1,31 @@
+.App {
+    font-family: "Mochiy Pop One", sans-serif;
+    text-align: center;
+  }
+  body {
+    background-color: #cdb4db;
+    color: #4a4e69;
+  }
+  .output,
+  h1 {
+    color: #22223b;
+  }
+  
+  input {
+    padding: 1em;
+    min-width: 50%;
+    border: 1px;
+    border-radius: 1rem;
+  }
+  div input:focus {
+    border: 2px dashed #22223b;
+    outline: none;
+  }
+  .emojis:hover {
+    border: 1px solid transparent;
+    background-color: #dee2e6;
+    border-radius: 3rem;
+    padding: 0.5rem;
+    margin: 10px;
+  }
+  
